@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 
 <div style="background-color: white;">
 <div id="my-header" align="center">
@@ -29,6 +32,8 @@ say.innerHTML=list_lang[i]+"! <img src=\"https://media.giphy.com/media/hvRJCLFzc
 i++;
 }, 4000);
 </script>
+</body>
+</html>
 
 
 <!--
