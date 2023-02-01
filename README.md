@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
 </div>
-    <div style="display:inline-block;">
+    <div style="display:flex;">
 <div id="socials" align="center">
 <a href="https://www.linkedin.com/in/manpreet-k-407a9a226/" style="padding-right:20px"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
     </div>
