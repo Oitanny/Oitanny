@@ -1,3 +1,23 @@
+<div style="background-color: white;">
+<div id="my-header" align="center">
+<img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
+
+</div>
+<div id="socials" style="display: flex;justify-content: center;align-items: center;">
+<a href="https://www.linkedin.com/in/manpreet-k-407a9a226/" style="padding-right:20px"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+
+<a href="https://discordapp.com/users/Oitanny#2190" style="padding-right:20px"><img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge
+"></a>
+
+<a href="https://www.quora.com/profile/Manny-475" style="padding-right:20px"><img src="https://img.shields.io/badge/Quora-red?logo=quora&logoColor=white&style=for-the-badge
+"></a>
+</div>
+<h1 style="text-align: center;" id="first_hi">
+    Hello!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 
 
 <!--
