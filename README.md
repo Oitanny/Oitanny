@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
 </div>
-<div id="socials" align="center">
+<div id="socials" style="display:inline; left:50%" >
 <a href="https://www.linkedin.com/in/manpreet-k-407a9a226/" style="padding-right:20px"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 
 <a href="https://discordapp.com/users/Oitanny#2190" style="padding-right:20px"><img src="https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white&style=for-the-badge"></a>
