@@ -26,7 +26,11 @@ I'm a developer under-development. Welcome to my GitHub profile!
 - LinkedIn: https://www.linkedin.com/in/manpreet-k-407a9a226/
 - Twitter: https://twitter.com/manpreet_312/
 - Website: (coming soon!)
+- 📫 Drop a "Hi" for a virtual cookie 🍪: (soon)
+
+
+[![An image of @manpreet03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manpreet03)](https://holopin.io/@manpreet03)
+
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
-- 📫 How to reach me: (soon)
 
