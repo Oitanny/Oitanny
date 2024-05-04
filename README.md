@@ -4,8 +4,8 @@
 
 $whoami
 - A developer under-development. 
-- Founder of 𝗞𝘂𝗺𝘂𝗙𝗼𝗿𝗴𝗲🐝
-  Kumuforge is a community that provides students and developers with a platform to connect with like-minded coding enthusiasts, while also offering support and guidance to help them advance in their projects and careers. We are dedicated to bridging the gap between theory and application for budding developers.
+- Founder of 𝗞𝘂𝗺𝘂𝗙𝗼𝗿𝗴𝗲🐝:
+  A community that provides students and developers with a platform to connect with like-minded coding enthusiasts, while also offering support and guidance to help them advance in their projects and careers. We are dedicated to bridging the gap between theory and application for budding developers.
   Explore and join Kumforge:
   
 
