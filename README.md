@@ -3,10 +3,8 @@
 I'm a developer under-development. Welcome to my GitHub profile!
 
 ## About Me
-- 💼 Currently working on: KumuForge
-- 🌱 Learning: Artificial Intelligence/Machine Learning
-- 💬 Ask me about: Flutter
-- 📫 How to reach me: (soon)
+- 💼 Founder of: KumuForge
+
 
 ## My Skills
 - Programming Languages:
@@ -15,6 +13,7 @@ I'm a developer under-development. Welcome to my GitHub profile!
 
 - Tools/Technologies:
 
+[![Oitanny's GitHub | Stats](https://stats.quine.sh/Oitanny/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Oitanny)
 
 ## Projects
 - [Project Name](Project Link): Brief description.
@@ -29,3 +28,5 @@ I'm a developer under-development. Welcome to my GitHub profile!
 - Website: (coming soon!)
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
+- 📫 How to reach me: (soon)
+
