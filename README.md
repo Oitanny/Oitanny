@@ -1,6 +1,4 @@
 
-<div style="background-color:black; color:white; padding:20px;">
-  
 ![PTIivkv-xIvCJiii (2)](https://github.com/Oitanny/Oitanny/assets/85064763/b8ae8af1-17ee-4e6d-af47-a78428530844)
   
 # Aloha! 𝗠𝗮𝗻𝗽𝗿𝗲𝗲𝘁 (aka Manny) here 🧑‍🚀
@@ -39,7 +37,4 @@ $whoami
 
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
-
-
-</div>
 
