@@ -2,10 +2,12 @@
 
 # Aloha! 𝗠𝗮𝗻𝗽𝗿𝗲𝗲𝘁 (aka Manny) here 🧑‍🚀
 
-I'm a developer under-development. Welcome to my GitHub profile!
-
-## About Me
-- 💼 Founder of: KumuForge
+$whoami
+- A developer under-development. 
+- Founder of 𝗞𝘂𝗺𝘂𝗙𝗼𝗿𝗴𝗲🐝
+  Kumuforge is a community that provides students and developers with a platform to connect with like-minded coding enthusiasts, while also offering support and guidance to help them advance in their projects and careers. We are dedicated to bridging the gap between theory and application for budding developers.
+  Explore and join Kumforge:
+  
 
 
 ## My Skills
