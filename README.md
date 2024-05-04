@@ -16,8 +16,14 @@ $whoami
 
 - Tools/Technologies:
 
-[![Oitanny's GitHub | Stats](https://stats.quine.sh/Oitanny/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Oitanny) [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oitanny&show_icons=true&theme=radical)](https://github.com/Oitanny)
-
+<table>
+  <tr>
+    <td><img src="https://stats.quine.sh/Oitanny/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Oitanny" alt="Oitanny's Github Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Oitanny&show_icons=true&theme=radical)](https://github.com/Oitanny)" alt="Oitanny Quine Stats"></td>
+  </tr>
+</table>
+<!-- [![Oitanny's GitHub | Stats](https://stats.quine.sh/Oitanny/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Oitanny) [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oitanny&show_icons=true&theme=radical)](https://github.com/Oitanny)
+ -->
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/manpreet-k-407a9a226/
 - Twitter: https://twitter.com/manpreet_312/
