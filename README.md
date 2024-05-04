@@ -1,5 +1,6 @@
-
+<center>
 ![PTIivkv-xIvCJiii (2)](https://github.com/Oitanny/Oitanny/assets/85064763/2a52141a-dfad-4351-b4aa-dfac2618e820)
+</center>
 
 # Hola, I'm Manpreet (Manny)! 🧑‍🚀
 
@@ -15,15 +16,17 @@ I'm a developer under-development. Welcome to my GitHub profile!
 - Frameworks/Libraries: 
 
 - Tools/Technologies:
-
+<center>
 [![Oitanny's GitHub | Stats](https://stats.quine.sh/Oitanny/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Oitanny)
-
+</center>
 ## Projects
 - [Project Name](Project Link): Brief description.
 - [Project Name](Project Link): Brief description.
 
 ## My GitHub Stats
+<center>
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oitanny&show_icons=true&theme=radical)](https://github.com/Oitanny)
+</center>
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/manpreet-k-407a9a226/
