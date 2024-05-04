@@ -1,3 +1,6 @@
+
+![PTIivkv-xIvCJiii (2)](https://github.com/Oitanny/Oitanny/assets/85064763/2a52141a-dfad-4351-b4aa-dfac2618e820)
+
 # Hola, I'm Manpreet (Manny)! 🧑‍🚀
 
 I'm a developer under-development. Welcome to my GitHub profile!
