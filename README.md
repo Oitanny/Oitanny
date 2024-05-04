@@ -3,6 +3,6 @@
 
 
 
-https://github.com/Oitanny/Oitanny/assets/85064763/6a0b5be0-2e66-4233-b353-79f6799f674d
+<img src="https://github.com/Oitanny/Oitanny/assets/85064763/6a0b5be0-2e66-4233-b353-79f6799f674d"/>
 
 
