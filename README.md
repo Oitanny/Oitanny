@@ -46,6 +46,7 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/Figma-color?style=for-the-badge&logo=Figma&logoColor=white&color=%23F14E1C)
 
 
+<br><br>
 <table style="border: none;">
   <tr>
     <td><img src="https://stats.quine.sh/Oitanny/github?theme=dark" alt="Oitanny's Github Stats"></td>
