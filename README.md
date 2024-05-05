@@ -3,12 +3,12 @@
   
 # Aloha! 𝗠𝗮𝗻𝗽𝗿𝗲𝗲𝘁 (aka Manny) here 🧑‍🚀
 
-$whoami
+## $whoami
 - A developer under-development. 
 - Founder of 𝗞𝘂𝗺𝘂𝗙𝗼𝗿𝗴𝗲🐝: <br> A community that provides students and developers with a platform to connect with like-minded coding enthusiasts, while also offering support and guidance to help them advance in their projects and careers. We are dedicated to bridging the gap between theory and application for budding developers. <br><br>
 𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗮𝗻𝗱 𝗝𝗼𝗶𝗻:
   
-
+<br>
 
 ## My Skills
 - Programming Languages:  
@@ -46,7 +46,7 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/Figma-color?style=for-the-badge&logo=Figma&logoColor=white&color=%23F14E1C)
 
 
-<br><br>
+<br>
 <table style="border: none;">
   <tr>
     <td><img src="https://stats.quine.sh/Oitanny/github?theme=dark" alt="Oitanny's Github Stats"></td>
@@ -56,6 +56,7 @@ $whoami
 
 <!-- [![Oitanny's GitHub | Stats](https://stats.quine.sh/Oitanny/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Oitanny) [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oitanny&show_icons=true&theme=radical)](https://github.com/Oitanny)
  -->
+ <br>
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/manpreet-k-407a9a226/
 - Twitter: https://twitter.com/manpreet_312/
