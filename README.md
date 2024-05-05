@@ -21,9 +21,8 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&color=%23AEB2D5)
 ![Static Badge](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white&color=%23806EE3)
 <br>
+- Frameworks/Libraries:
 
-
-- Frameworks/Libraries: 
 
 - Tools/Technologies:
 
