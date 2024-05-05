@@ -10,6 +10,7 @@
 <a href="https://open.spotify.com/show/1VHw5CRmHZjt2TG4WGdCYd?si=b84bc3158a144aff">
     <img src="https://img.shields.io/badge/Spotify-color?style=plastic&logo=Spotify&labelColor=black&color=white" alt="Spotify">
 </a>
+
 <a href="https://twitter.com/KumuForge">
     <img src="https://img.shields.io/badge/Twitter-color?style=plastic&logo=Twitter&labelColor=black&color=white" alt="Twitter">
 </a>
