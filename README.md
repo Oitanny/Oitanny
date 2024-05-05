@@ -32,9 +32,16 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/ExpressJS-blue?style=for-the-badge&logo=ExpressJS&logoColor=black&color=yellow)
 ![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white&color=%230C5C9F)
 ![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-blue?style=for-the-badge&logo=jetpack%20compose&logoColor=white&color=%23012C40)
+![Static Badge](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=TailWindCSS&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BootStrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 
 - Tools/Technologies:
+![Static Badge](https://img.shields.io/badge/MySQL-color?style=for-the-badge&logo=MYSQL&logoColor=white&color=%23E48E1A)
+![Static Badge](https://img.shields.io/badge/MongoDB-color?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2358AA50)
+![Static Badge](https://img.shields.io/badge/Firebase-color?style=for-the-badge&logo=Firebase&logoColor=white&color=%23F6820C)
+
+
 
 <table style="border: none;">
   <tr>
