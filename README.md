@@ -37,6 +37,7 @@ $whoami
 
 
 - Tools/Technologies:
+
 ![Static Badge](https://img.shields.io/badge/MySQL-color?style=for-the-badge&logo=MYSQL&logoColor=white&color=%23E48E1A)
 ![Static Badge](https://img.shields.io/badge/MongoDB-color?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2358AA50)
 ![Static Badge](https://img.shields.io/badge/Firebase-color?style=for-the-badge&logo=Firebase&logoColor=white&color=%23F6820C)
