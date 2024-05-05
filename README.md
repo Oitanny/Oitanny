@@ -42,6 +42,8 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/MongoDB-color?style=for-the-badge&logo=MongoDB&logoColor=white&color=%2358AA50)
 ![Static Badge](https://img.shields.io/badge/Firebase-color?style=for-the-badge&logo=Firebase&logoColor=white&color=%23F6820C)
 ![Static Badge](https://img.shields.io/badge/Android-color?style=for-the-badge&logo=Android&logoColor=white&color=%233ADD85)
+![Static Badge](https://img.shields.io/badge/Canva-color?style=for-the-badge&logo=Canva&logoColor=white&color=%231FA5D3)
+![Static Badge](https://img.shields.io/badge/Figma-color?style=for-the-badge&logo=Figma&logoColor=white&color=%23F14E1C)
 
 
 <table style="border: none;">
