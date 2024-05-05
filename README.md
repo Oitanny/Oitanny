@@ -20,8 +20,17 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white&color=%23E7A42B)
 ![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&color=%23AEB2D5)
 ![Static Badge](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white&color=%23806EE3)
+![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML&logoColor=white&color=%23e34c26)
+![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white&color=%232162AF)
+
+
 <br>
 - Frameworks/Libraries:
+![Static Badge](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=React&logoColor=white&color=%2353C1DE)
+![Static Badge](https://img.shields.io/badge/NextJS-blue?style=for-the-badge&logo=NextJS&logoColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/ExpressJS-blue?style=for-the-badge&logo=ExpressJS&logoColor=black&color=yellow)
+![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter&logoColor=white&color=%230C5C9F)
+![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-blue?style=for-the-badge&logo=jetpack%20compose&logoColor=white&color=%23012C40)
 
 
 - Tools/Technologies:
