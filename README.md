@@ -12,7 +12,6 @@ $whoami
 
 ## My Skills
 - Programming Languages:
-<br/>
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-Blue?style=for-the-badge&logo=C%2B%2B&color=%23044F88)
 ![Static Badge](https://img.shields.io/badge/Java-Red?style=for-the-badge&color=%23EA2A30)
 ![Static Badge](https://img.shields.io/badge/Python-Red?style=for-the-badge&logo=python&logoColor=white&color=%233773A5)
