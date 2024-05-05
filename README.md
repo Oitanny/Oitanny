@@ -7,7 +7,11 @@
 - A developer under-development. 
 - Founder of 𝗞𝘂𝗺𝘂𝗙𝗼𝗿𝗴𝗲🐝: <br> A community that provides students and developers with a platform to connect with like-minded coding enthusiasts, while also offering support and guidance to help them advance in their projects and careers. We are dedicated to bridging the gap between theory and application for budding developers. <br><br>
 𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗮𝗻𝗱 𝗝𝗼𝗶𝗻:
-  
+![Static Badge](https://img.shields.io/badge/Twitter-color?style=plastic&logo=Twitter&labelColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FKumuForge)
+![Static Badge](https://img.shields.io/badge/Spotify-color?style=plastic&logo=Spotify&labelColor=black&color=white&link=https%3A%2F%2Fopen.spotify.com%2Fshow%2F1VHw5CRmHZjt2TG4WGdCYd%3Fsi%3Db84bc3158a144aff)
+
+
+
 <br>
 
 ## My Skills
