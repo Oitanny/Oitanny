@@ -12,7 +12,15 @@ $whoami
 
 ## My Skills
 - Programming Languages:<br>
-![Static Badge](https://img.shields.io/badge/C%2B%2B-darkblue?logo=C%2B%2B)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-Blue?style=for-the-badge&logo=C%2B%2B&color=%23044F88)
+![Static Badge](https://img.shields.io/badge/Java-Red?style=for-the-badge&color=%23EA2A30)
+![Static Badge](https://img.shields.io/badge/Python-Red?style=for-the-badge&logo=python&logoColor=white&color=%233773A5)
+![Static Badge](https://img.shields.io/badge/R-gray?style=for-the-badge&logo=R&logoColor=white&color=gray)
+![Static Badge](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=Dart&logoColor=white&color=%232CB7F6)
+![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white&color=%23E7A42B)
+![Static Badge](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=white&color=%23AEB2D5)
+![Static Badge](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white&color=%23806EE3)
+<br>
 
 
 - Frameworks/Libraries: 
