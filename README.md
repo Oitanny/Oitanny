@@ -11,7 +11,8 @@ $whoami
 
 
 ## My Skills
-- Programming Languages:
+- Programming Languages:  \n
+
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-Blue?style=for-the-badge&logo=C%2B%2B&color=%23044F88)
 ![Static Badge](https://img.shields.io/badge/Java-Red?style=for-the-badge&color=%23EA2A30)
 ![Static Badge](https://img.shields.io/badge/Python-Red?style=for-the-badge&logo=python&logoColor=white&color=%233773A5)
@@ -23,10 +24,9 @@ $whoami
 ![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML&logoColor=white&color=%23e34c26)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white&color=%232162AF)
 
-<br/>
+  \n  \n  \n
 
-- Frameworks/Libraries:
-<br/>
+- Frameworks/Libraries:  \n
 ![Static Badge](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=React&logoColor=white&color=%2353C1DE)
 ![Static Badge](https://img.shields.io/badge/NextJS-blue?style=for-the-badge&logo=NextJS&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/ExpressJS-blue?style=for-the-badge&logo=ExpressJS&logoColor=black&color=yellow)
