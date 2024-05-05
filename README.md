@@ -10,10 +10,9 @@
 <a href="https://open.spotify.com/show/1VHw5CRmHZjt2TG4WGdCYd?si=b84bc3158a144aff">
     <img src="https://img.shields.io/badge/Spotify-color?style=plastic&logo=Spotify&labelColor=black&color=white" alt="Spotify">
 </a>
-
-
-![Static Badge](https://img.shields.io/badge/Twitter-color?style=plastic&logo=Twitter&labelColor=black&color=white&link=https%3A%2F%2Ftwitter.com%2FKumuForge)
-![Static Badge](https://img.shields.io/badge/Spotify-color?style=plastic&logo=Spotify&labelColor=black&color=white&link=https%3A%2F%2Fopen.spotify.com%2Fshow%2F1VHw5CRmHZjt2TG4WGdCYd%3Fsi%3Db84bc3158a144aff)
+<a href="https://twitter.com/KumuForge">
+    <img src="https://img.shields.io/badge/Twitter-color?style=plastic&logo=Twitter&labelColor=black&color=white" alt="Twitter">
+</a>
 
 
 
