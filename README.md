@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://twitter.com/KumuForge">
-    <img src="https://img.shields.io/badge/X-color?style=plastic&logo=Twitter&labelColor=black&color=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-color?style=plastic&logo=X&labelColor=black&color=white" alt="Twitter">
 </a>
 
 
