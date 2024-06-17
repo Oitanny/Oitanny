@@ -73,7 +73,7 @@
 - 📫 Drop a "Hi" for a virtual cookie 🍪: (soon)
 
 
-[![An image of @manpreet03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manpreet03)](https://holopin.io/@manpreet03)
+<!--[![An image of @manpreet03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manpreet03)](https://holopin.io/@manpreet03)-->
 
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
