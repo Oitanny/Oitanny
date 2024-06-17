@@ -1,7 +1,7 @@
 
 ![PTIivkv-xIvCJiii (2)](https://github.com/Oitanny/Oitanny/assets/85064763/b8ae8af1-17ee-4e6d-af47-a78428530844)
   
-# Aloha! 𝗠𝗮𝗻𝗽𝗿𝗲𝗲𝘁 (aka Manny) here 🧑‍🚀
+# Aloha! Manny here 🧑‍🚀
 
 ## $whoami
 - A developer under-development. 
@@ -68,8 +68,7 @@
 
 
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/manpreet-k-407a9a226/
-- Twitter: https://twitter.com/manpreet_312/
+- Twitter: https://twitter.com/oitanny/
 - Website: (coming soon!)
 - 📫 Drop a "Hi" for a virtual cookie 🍪: (soon)
 
