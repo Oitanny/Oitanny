@@ -1,7 +1,7 @@
 
 ![PTIivkv-xIvCJiii (2)](https://github.com/Oitanny/Oitanny/assets/85064763/b8ae8af1-17ee-4e6d-af47-a78428530844)
   
-# Aloha! Manny here 🧑‍🚀
+# Aloha! Oitanny here 🧑‍🚀
 
 ## $whoami
 - A developer under-development. 
